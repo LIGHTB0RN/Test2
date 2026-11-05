@@ -6,6 +6,9 @@ src="https://cdn.discordapp.com/attachments/1497841328678240329/1567872478720688
 <img
 src="https://cdn.discordapp.com/attachments/1561397933738434622/1567873228683092049/Untitled357_20261105163223.png?ex=6aedc33b&is=6aec71bb&hm=fc329ad29bb17814d6f3e5e4ed2cd907bd404f400a88987751d9dbaa2472de03&" Width="89%" />
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=24&duration=3000&pause=1000&color=8060A8&center=true&vCenter=true&width=600&lines=The+night+is+my+domain." />
+</p>
 
 <div align="center">
 
